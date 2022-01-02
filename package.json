@@ -1,7 +1,7 @@
 {
   "name": "ipsum-crocodile-alligator",
   "version": "1.0.0",
-  "description": "",
+  "description": "node.js and express framework. lorem ipsum generator.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,10 +9,18 @@
     "dev": "nodemon index"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mark Hellner",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2",
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhellnerdev/ipsum-crocodile-alligator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mhellnerdev/ipsum-crocodile-alligator/issues"
+  },
+  "homepage": "https://github.com/mhellnerdev/ipsum-crocodile-alligator#readme"
 }
